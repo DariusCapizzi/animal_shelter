@@ -1,0 +1,81 @@
+div.columns {
+  margin: 5%;
+}
+
+
+div.first {
+  color: red;
+  width: 30%;
+  float: left;
+}
+
+div.second {
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 30%;
+  float: left;
+  color: green;
+}
+
+div.third {
+  width: 30%;
+  float:left;
+  color: blue;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+div h1{
+  font-family: monospace;
+  font-size: 39px;
+}
+div.first h1{
+  text-align: left;
+}
+
+div.second h1{
+  text-align: center;
+}
+
+div.third h1{
+  text-align: right;
+  font-family: monospace;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-family: monospace;
+  font-size: 52px;
+}
+
+body {
+  background-color: black;
+}
+
+
+.first div {
+  text-align: center;
+  color: white;
+  border: 3px solid white;
+}
+
+
+.second div {
+  text-align: center;
+  color: white;
+  border: 3px solid white;
+}
+
+
+.third div {
+  text-align: center;
+  color: white;
+  border: 3px solid white;
+}
